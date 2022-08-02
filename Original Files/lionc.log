@@ -1,0 +1,445 @@
+This is TeX, C Version 3.14 (format=lplain 92.7.25)  12 JUN 1994 15:46
+**&lplain lionc.tex
+(lionc.tex
+LaTeX Version 2.09 <25 March 1992>
+(/opt/lib/tex/inputs/article.sty
+Document Style `article' <16 Mar 88>.
+(/opt/lib/tex/inputs/art10.sty)
+\c@part=\count86
+\c@section=\count87
+\c@subsection=\count88
+\c@subsubsection=\count89
+\c@paragraph=\count90
+\c@subparagraph=\count91
+\c@figure=\count92
+\c@table=\count93
+) (/opt/lib/tex/inputs/fancyheadings.sty
+\headrulewidth=\dimen100
+\footrulewidth=\dimen101
+\plainheadrulewidth=\dimen102
+\plainfootrulewidth=\dimen103
+\headwidth=\dimen104
+)
+(lionc.aux (title.aux) (preface.aux) (ch1.aux) (ch2.aux) (ch3.aux) (ch4.aux)
+(ch5.aux) (ch6.aux) (ch7.aux) (ch8.aux) (ch9.aux) (ch10.aux) (ch11.aux)
+(ch12.aux) (ch13.aux) (ch14.aux) (ch15.aux) (ch16.aux) (ch17.aux) (ch18.aux)
+(ch19.aux) (ch20.aux) (ch21.aux) (ch22.aux) (ch23.aux) (ch24.aux) (ch25.aux)
+(ch26.aux)) (title.tex) [1
+
+
+] [2
+
+
+] (lionc.toc [1
+
+] [2] [3])
+\tf@toc=\write3
+ [4
+
+] (preface.tex
+[5
+
+
+]) [6] (ch1.tex [1
+
+
+
+] [2]) [3] (ch2.tex [4
+
+
+] [5] [6] [7]
+Overfull \hbox (15.16429pt too wide) in paragraph at lines 738--738
+[]\twlbf Memory Man-age-ment Sta-tus Reg-
+
+\hbox(8.23334+2.33331)x221.93158, glue set - 1.0
+.\hbox(7.73332+0.0)x37.5
+..\glue 0.0
+..\twlbf 2
+..\twlbf .
+..\twlbf 1
+..\twlbf 1
+..etc.
+.\twlbf M
+.\twlbf e
+.\twlbf m
+.\twlbf o
+.etc.
+
+[8]) [9
+
+] (ch3.tex
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
+
+
+\hbox(0.0+0.0)x221.93158
+.\glue(\rightskip) 0.0
+
+[10
+
+
+] [11] [12] [13] [14]
+Overfull \hbox (24.81627pt too wide) in paragraph at lines 984--984
+[]           \tentt n[0] =+ fp->f_inode->i size0 & 0377;[] 
+
+\hbox(6.94444+2.22223)x221.93158
+.\hbox(0.0+0.0)x0.0
+.\penalty 10000
+.\glue 5.24995
+.\penalty 10000
+.\glue 5.24995
+.etc.
+
+[15] [16]) [17
+
+] (ch4.tex [18
+
+
+] [19] [20]) [21] (ch5.tex [22
+
+
+] [23] [24] [25]
+[26]
+Overfull \hbox (20.68561pt too wide) in paragraph at lines 808--813
+\tenrm cluded to pro-vide dec-la-ra-tions for ``d[]major'', ``d[]minor'',
+
+\hbox(6.94444+1.94444)x221.93158, glue set - 1.0
+.\tenrm c
+.\tenrm l
+.\tenrm u
+.\tenrm d
+.\tenrm e
+.etc.
+
+) [27
+
+] (ch6.tex [28
+
+
+]
+Overfull \hbox (24.3189pt too wide) in paragraph at lines 317--318
+[] []\tenrm the phys-i-cally avail-able mem-ory (``maxmem''); 
+
+\hbox(7.5+2.5)x174.93158, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\glue 0.0
+.\hbox(4.44444+0.0)x0.0
+..\glue 0.0
+..\glue -17.0
+..\glue -5.0
+..\hbox(4.44444+0.0)x17.0, glue set 17.0fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\hbox(4.44444+0.0)x0.0, glue set - 5.00002fil []
+..\glue 5.0
+.\penalty 0
+.\tenrm t
+.etc.
+
+
+Overfull \hbox (43.93001pt too wide) in paragraph at lines 319--320
+[] []\tenrm an in-stal-la-tion de-fin-able pa-ram-e-ter (``MAXMEM'')
+
+\hbox(7.5+2.5)x174.93158, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\glue 0.0
+.\hbox(4.44444+0.0)x0.0
+..\glue 0.0
+..\glue -17.0
+..\glue -5.0
+..\hbox(4.44444+0.0)x17.0, glue set 17.0fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\hbox(4.44444+0.0)x0.0, glue set - 5.00002fil []
+..\glue 5.0
+.\penalty 0
+.\tenrm a
+.etc.
+
+[29] [30] [31]) [32] (ch7.tex [33
+
+
+] [34]
+Underfull \vbox (badness 6016) has occurred while \output is active
+\vbox(685.71158+0.0)x221.93158, glue set 3.9218
+.\glue(\topskip) 2.5
+.\hbox(7.5+2.5)x221.93158, glue set - 0.01944
+..\tenrm i
+..\tenrm s
+..\glue 3.33333 plus 1.66666 minus 1.11111
+..\tenrm a
+..\tenrm d
+..etc.
+.\penalty 100
+.\glue(\baselineskip) 2.55556
+.\hbox(6.94444+1.94444)x221.93158, glue set - 0.00461
+..\tenrm d
+..\tenrm r
+..\tenrm e
+..\tenrm s
+..\tenrm s
+..etc.
+.etc.
+
+ [35]
+[36]) [37] (ch8.tex [38
+
+
+] [39] [40]) [41] (ch9.tex
+Overfull \hbox (26.19081pt too wide) in paragraph at lines 26--26
+[]\frtnbf Hardware In-ter-rupts and Traps 
+
+\hbox(9.99998+2.79999)x221.93158, glue set - 1.0
+.\hbox(9.27998+0.0)x24.83983
+..\glue 0.0
+..\frtnbf 9
+..\glue 16.55989
+.\frtnbf H
+.\frtnbf a
+.\frtnbf r
+.\frtnbf d
+.etc.
+
+
+Overfull \hbox (29.818pt too wide) in paragraph at lines 118--132
+ [] 
+
+\hbox(68.7+63.7)x221.93158
+.\glue(\leftskip) 0.0 plus 1.0fil
+.\hbox(68.7+63.7)x251.74957
+..\mathon
+..\vbox(68.7+63.7)x251.74957
+...\hbox(8.39996+3.60004)x251.74957 []
+...\glue(\lineskip) 0.0
+...\hbox(8.39996+3.60004)x251.74957 []
+...\rule(0.4+0.0)x251.74957
+...\hbox(8.39996+3.60004)x251.74957 []
+...etc.
+..\mathoff
+.\glue(\rightskip) 0.0 plus 1.0fil
+
+[42
+
+
+] [43]) [44] (ch10.tex [45
+
+
+] [46]
+Overfull \hbox (18.15216pt too wide) in paragraph at lines 373--389
+ [] 
+
+\hbox(80.9+75.9)x221.93158
+.\glue(\leftskip) 0.0 plus 1.0fil
+.\hbox(80.9+75.9)x240.08374
+..\mathon
+..\vbox(80.9+75.9)x240.08374
+...\hbox(8.39996+3.60004)x240.08374 []
+...\rule(0.4+0.0)x240.08374
+...\hbox(8.39996+3.60004)x240.08374 []
+...\glue(\lineskip) 0.0
+...\hbox(8.39996+3.60004)x240.08374 []
+...etc.
+..\mathoff
+.\glue(\rightskip) 0.0 plus 1.0fil
+
+) [47] (ch11.tex [48
+
+
+]) [49] (ch12.tex
+Missing character: There is no ^^a3 in font cmr10!
+ [50
+
+
+] [51] [52]) [53] (ch13.tex
+Overfull \hbox (19.52888pt too wide) in paragraph at lines 55--61
+\tenrm dis-tin-guished be-cause UNIX en-sures that ``u.u[]signal[9]''
+
+\hbox(7.5+2.5)x221.93158, glue set - 1.0
+.\tenrm d
+.\tenrm i
+.\tenrm s
+.\discretionary
+..\tenrm -
+.\tenrm t
+.etc.
+
+[54
+
+
+] [55] [56] [57] [58]
+Overfull \hbox (22.44656pt too wide) in paragraph at lines 836--841
+[]\tenrm In the third case ``ptrace'' will al-ways set ``ipc.ip[]lock''
+
+\hbox(6.94444+1.94444)x221.93158, glue set - 1.0
+.\hbox(0.0+0.0)x15.0
+.\tenrm I
+.\tenrm n
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm t
+.etc.
+
+) [59] (ch14.tex [60
+
+
+] [61]) [62] (ch15.tex [63
+
+
+] [64]) [65
+
+] (ch16.tex [66
+
+
+])
+[67] (ch17.tex
+Overfull \hbox (22.19656pt too wide) in paragraph at lines 152--157
+\tenrm and if the ``av''-list is empty, set the ``B[]WANTED''
+
+\hbox(6.94444+1.94444)x196.93158, glue set - 1.0
+.\tenrm a
+.\tenrm n
+.\tenrm d
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm i
+.etc.
+
+[68
+
+
+] [69]) [70] (ch18.tex [71
+
+
+] [72] [73] [74] [75]) [76
+
+] (ch19.tex [77
+
+
+]
+[78] [79]) [80] (ch20.tex [81
+
+
+] [82] [83] [84] [85]) [86
+
+] (ch21.tex) [87
+
+
+]
+(ch22.tex [88
+
+
+] [89] [90]
+Overfull \hbox (18.17259pt too wide) in paragraph at lines 499--499
+[]\twlbf PC-11 Pa-per Tape Reader/Punch
+
+\hbox(9.0+3.0)x221.93158, glue set - 1.0
+.\hbox(7.73332+0.0)x44.25
+..\glue 0.0
+..\twlbf 2
+..\twlbf 2
+..\twlbf .
+..\twlbf 1
+..etc.
+.\twlbf P
+.\twlbf C
+.\twlbf -
+.\discretionary
+.etc.
+
+) [91] (ch23.tex (fig23_1.tex) (fig23_2.tex) (fig23_3.tex) (fig23_4.tex
+Overfull \hbox (33.21124pt too wide) in paragraph at lines 37--39
+[][]
+
+\hbox(122.0398+0.0)x221.93158
+.\hbox(0.0+0.0)x15.0
+.\hbox(122.0398+0.0)x240.14282
+..\hbox(122.0398+0.0)x240.14282, glue set 287.38403fil
+...\glue -47.24121
+...\hbox(537.52686+0.0)x0.0, shifted 413.3606 []
+...\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\rightskip) 0.0
+
+) [92
+
+
+] [93]
+Overfull \hbox (15.88098pt too wide) in paragraph at lines 275--289
+[] 
+
+\hbox(80.7+75.7)x221.93158
+.\hbox(80.7+75.7)x237.81256
+..\mathon
+..\vbox(80.7+75.7)x237.81256
+...\hbox(8.39996+3.60004)x237.81256 []
+...\glue(\lineskip) 0.0
+...\hbox(8.39996+3.60004)x237.81256 []
+...\glue(\lineskip) 0.0
+...\hbox(8.39996+3.60004)x237.81256 []
+...etc.
+..\mathoff
+.\penalty 10000
+.\glue(\parfillskip) 0.0 plus 1.0fil
+.\glue(\rightskip) 0.0
+
+[94]) [95] (ch24.tex [96
+
+
+]
+Overfull \hbox (26.34647pt too wide) in paragraph at lines 233--262
+[] 
+
+\hbox(170.5+165.5)x196.93158
+.\hbox(170.5+165.5)x223.27805
+..\mathon
+..\vbox(170.5+165.5)x223.27805
+...\hbox(8.39996+3.60004)x223.27805 []
+...\glue(\lineskip) 0.0
+...\hbox(8.39996+3.60004)x223.27805 []
+...\glue(\lineskip) 0.0
+...\hbox(8.39996+3.60004)x223.27805 []
+...etc.
+..\mathoff
+.\penalty 10000
+.\glue(\parfillskip) 0.0 plus 1.0fil
+.\glue(\rightskip) 0.0
+
+[97] [98] [99]) [100
+
+] (ch25.tex [101
+
+
+] [102] [103] [104]) [105] (ch26.tex
+[106
+
+
+]
+Overfull \hbox (22.48535pt too wide) in paragraph at lines 212--218
+[] []\tenrm The emer-gence of the ``sticky bit'' (see ``CHMOD(I)''
+
+\hbox(7.5+2.5)x196.93158, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\glue 0.0
+.\hbox(6.44444+0.0)x-5.30563
+..\glue -25.0
+..\glue 0.0
+..\glue -5.0
+..\hbox(6.44444+0.0)x19.69437
+...\glue 5.0
+...\tenbf 4
+...\tenbf .
+...\tenbf 4
+..\glue 5.0
+.\penalty 0
+.\tenrm T
+.etc.
+
+) [107] (lionc.aux (title.aux) (preface.aux) (ch1.aux) (ch2.aux) (ch3.aux)
+(ch4.aux) (ch5.aux) (ch6.aux) (ch7.aux) (ch8.aux) (ch9.aux) (ch10.aux)
+(ch11.aux) (ch12.aux) (ch13.aux) (ch14.aux) (ch15.aux) (ch16.aux) (ch17.aux)
+(ch18.aux) (ch19.aux) (ch20.aux) (ch21.aux) (ch22.aux) (ch23.aux) (ch24.aux)
+(ch25.aux) (ch26.aux)) ) 
+Here is how much of TeX's memory you used:
+ 741 strings out of 62421
+ 4452 string characters out of 93652
+ 54535 words of memory out of 262141
+ 2268 multiletter control sequences out of 3000
+ 19604 words of font info for 74 fonts, out of 100000 for 255
+ 0 hyphenation exceptions out of 307
+ 20i,11n,18p,197b,302s stack positions out of 300i,40n,60p,32760b,6000s
+
+Output written on lionc.dvi (115 pages, 618904 bytes).
